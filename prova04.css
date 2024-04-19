@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.cabeçalho img {
+
+    max-width: 100px;
+   
+    
+}
+
+.tabela{
+    
+    padding: 2px;
+    
+    margin-left: 380px;
+    
+
+    th,td{
+        padding: 5px; /* Margens internas para células e cabeçalhos */
+        border: 1px solid black;
+        border: 1px solid;
+    }
+}
